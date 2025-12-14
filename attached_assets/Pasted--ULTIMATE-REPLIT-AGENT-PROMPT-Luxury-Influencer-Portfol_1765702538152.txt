@@ -1,0 +1,214 @@
+🖤 ULTIMATE REPLIT AGENT PROMPT
+
+Luxury Influencer Portfolio + SFW / 18+ Monetization Split
+
+Paste everything below directly into Replit AI
+
+⸻
+
+You are a principal frontend engineer, luxury digital designer, and creator-economy monetization specialist.
+
+Build a high-end, luxury influencer portfolio website that represents a premium visual creator.
+This site must feel expensive, minimal, confident, and conversion-optimized, while remaining safe-for-work by default and cleanly funneling users to 18+ subscription platforms by choice.
+
+This is not a template site.
+This is a personal luxury brand website.
+
+⸻
+
+🎯 CORE OBJECTIVES
+	1.	Present a luxury public-facing personal brand
+	2.	Showcase her imagery in a tasteful, high-status way
+	3.	Capture Instagram / social bio traffic
+	4.	Funnel adult audiences to subscription platforms compliantly
+	5.	Separate SFW public identity from 18+ monetized content
+
+⸻
+
+🧠 BRAND POSITIONING (IMPORTANT)
+
+Tone:
+	•	Confident
+	•	Elegant
+	•	Controlled
+	•	Modern
+	•	Premium
+
+Avoid:
+	•	Influencer clichés
+	•	Loud UI
+	•	Over-sexualization
+	•	Corporate SaaS design
+	•	Editorial / magazine layouts
+
+This site should feel like:
+A private luxury brand homepage — not a social profile
+
+⸻
+
+🎨 LUXURY DESIGN SYSTEM
+	•	Background: Soft off-white, ivory, or warm light neutral
+	•	Typography:
+	•	Primary: Elegant modern serif or high-end grotesk
+	•	Secondary: Clean minimalist sans-serif
+	•	Color Accents: Muted nude, soft gold, graphite, or restrained neon
+	•	Spacing: Generous white space
+	•	Imagery: Large, intentional, never crowded
+
+No gradients.
+No gimmicks.
+No “creator marketplace” visuals.
+
+⸻
+
+🧩 SITE ARCHITECTURE
+
+1️⃣ ENTRY EXPERIENCE — SFW / 18+ SPLIT
+
+On first visit, present a minimal, luxury modal:
+
+Options
+	•	“Public Portfolio”
+	•	“Exclusive 18+ Access”
+
+Rules:
+	•	Neutral language
+	•	Age confirmation checkbox for 18+
+	•	Store selection in localStorage
+	•	No explicit previews
+
+⸻
+
+2️⃣ PUBLIC PORTFOLIO (SFW DEFAULT)
+
+HERO SECTION
+	•	Full-width hero image (tastefully cropped)
+	•	Creator name
+	•	Short luxury tagline (1 line, restrained)
+	•	CTAs:
+	•	“View Portfolio”
+	•	“Exclusive Access (18+)”
+
+⸻
+
+ABOUT HER — LUXURY COPY (USE EXACTLY)
+
+About Her
+
+She is a visual creator defined by confidence, control, and modern elegance. Her work explores presence, form, and self-expression through a refined aesthetic that balances strength with restraint.
+
+Each project is approached with intention — emphasizing quality, composition, and a clear visual identity rather than excess. Her portfolio reflects a curated evolution of style, built for audiences who value bold visuals delivered with sophistication.
+
+This platform serves as a central space for her public work, creative direction, and exclusive offerings.
+
+Tone rules:
+	•	No emojis
+	•	No hype language
+	•	No personal claims not verifiable
+	•	No explicit references
+
+⸻
+
+PORTFOLIO GALLERY (SFW)
+	•	Grid or masonry layout
+	•	Large imagery
+	•	Maintain original aspect ratios
+	•	Minimal hover interaction (scale or soft elevation)
+	•	Click to view in modal/lightbox
+	•	No image filters
+
+Images must feel curated, not dumped.
+
+⸻
+
+SOCIAL PRESENCE
+	•	Instagram
+	•	Twitter / X
+	•	Email / Contact
+	•	“Exclusive Access” CTA
+
+Use minimal icons, consistent spacing.
+
+⸻
+
+3️⃣ EXCLUSIVE / SUBSCRIPTION PAGE (18+ FUNNEL)
+
+This page is premium, not explicit.
+
+Include:
+	•	Headline: “Exclusive Access”
+	•	Short explanation of premium content
+	•	Tasteful teaser imagery (cropped / abstract)
+	•	CTA buttons:
+	•	“Subscribe on OnlyFans”
+	•	“Premium Membership”
+	•	“Support My Work”
+
+Add a clean disclaimer:
+
+“This section is intended for adults 18+ only.”
+
+No embedded adult media.
+
+⸻
+
+4️⃣ FOOTER
+	•	Name
+	•	Copyright
+	•	Social icons
+	•	Privacy & Age Disclaimer
+
+⸻
+
+🖼️ IMAGE HANDLING
+	•	Use all attached images
+	•	Lazy loading
+	•	Responsive sizing
+	•	High-quality rendering
+	•	No distortion
+	•	No aggressive cropping
+
+⸻
+
+📱 RESPONSIVE BEHAVIOR
+	•	Mobile-first
+	•	Touch-friendly
+	•	Smooth scrolling
+	•	Instagram bio-link optimized
+	•	Sticky header optional (minimal)
+
+⸻
+
+⚙️ TECHNICAL REQUIREMENTS
+	•	HTML + CSS + JavaScript (React optional)
+	•	CSS Grid / Flexbox
+	•	Clean folder structure
+	•	Well-commented sections
+	•	No unnecessary libraries
+	•	Fast load performance
+
+⸻
+
+🚫 HARD CONSTRAINTS
+	•	No explicit content on public pages
+	•	No adult UI language
+	•	No aggressive popups
+	•	No placeholder filler text unless unavoidable
+	•	No backend overengineering
+
+⸻
+
+✅ FINAL OUTPUT EXPECTATIONS
+	•	Fully working website
+	•	Ready to deploy on Replit
+	•	Clear, readable code
+	•	Easy to extend later (email capture, store, memberships)
+	•	Visual quality prioritized over feature bloat
+
+⸻
+
+🔥 EXECUTION PRIORITY
+
+Luxury visuals → clarity → monetization funnel
+
+Do not dilute with unnecessary features.
