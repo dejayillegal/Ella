@@ -1,7 +1,8 @@
 import { useState } from "react";
-import { Dialog, DialogContent } from "@/components/ui/dialog";
+import { Dialog, DialogContent, DialogTitle, DialogDescription } from "@/components/ui/dialog";
 import { Button } from "@/components/ui/button";
 import { Checkbox } from "@/components/ui/checkbox";
+import { VisuallyHidden } from "@radix-ui/react-visually-hidden";
 
 interface EntryModalProps {
   onSelect: (choice: "public" | "exclusive") => void;
@@ -33,7 +34,11 @@ export function EntryModal({ onSelect }: EntryModalProps) {
         className="sm:max-w-md border-none bg-background p-8 md:p-12"
         onPointerDownOutside={(e) => e.preventDefault()}
         onEscapeKeyDown={(e) => e.preventDefault()}
+        aria-describedby={undefined}
       >
+        <VisuallyHidden>
+          <DialogTitle>Welcome - Select your experience</DialogTitle>
+        </VisuallyHidden>
         <div className="flex flex-col items-center text-center space-y-8">
           <div className="space-y-3">
             <h2 className="font-serif text-3xl md:text-4xl font-light tracking-wide" data-testid="text-modal-title">
