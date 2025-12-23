@@ -10,11 +10,9 @@ export function Footer() {
         <div className="flex flex-col md:flex-row items-center justify-between gap-8">
           <div className="text-center md:text-left">
             <p 
-              className="font-serif text-xl tracking-wide mb-2"
+              className="font-serif text-xl tracking-wide mb-2 font-thin"
               data-testid="text-footer-name"
-            >
-              STUDIO
-            </p>
+            >Eloisa Chairez</p>
             <p className="text-sm text-muted-foreground">
               &copy; {currentYear} All Rights Reserved
             </p>

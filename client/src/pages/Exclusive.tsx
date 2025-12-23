@@ -175,7 +175,7 @@ export default function Exclusive() {
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4 flex-wrap">
               <a
-                href="https://onlyfans.com"
+                href="https://onlyfans.com/@cybergirrl"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -188,35 +188,16 @@ export default function Exclusive() {
                 </Button>
               </a>
               
-              <a
-                href="https://fansly.com"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
+              <Link href="/">
                 <Button 
                   variant="outline" 
                   size="lg" 
                   className="min-w-[200px] font-light tracking-wider"
-                  data-testid="button-fansly"
+                  data-testid="button-back-to-public"
                 >
-                  Premium Membership
+                  Back to Portfolio
                 </Button>
-              </a>
-
-              <a
-                href="https://ko-fi.com"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <Button 
-                  variant="secondary" 
-                  size="lg" 
-                  className="min-w-[200px] font-light tracking-wider"
-                  data-testid="button-support"
-                >
-                  Support My Work
-                </Button>
-              </a>
+              </Link>
             </div>
           </div>
         </section>

@@ -26,13 +26,13 @@ export function Hero() {
           className="font-serif text-5xl md:text-7xl lg:text-8xl font-light text-white tracking-wide mb-6"
           data-testid="text-hero-title"
         >
-          Visual Creator
+          Ella
         </h1>
         <p 
           className="text-white/80 text-lg md:text-xl font-light tracking-wide mb-12 max-w-xl mx-auto"
           data-testid="text-hero-tagline"
         >
-          Confidence. Elegance. Modern Vision.
+          Creator. Strategist. AI-Powered Visionary.
         </p>
         
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">

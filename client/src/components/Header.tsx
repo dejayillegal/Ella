@@ -12,11 +12,9 @@ export function Header() {
       <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between gap-4">
         <Link href="/">
           <span 
-            className="font-serif text-xl md:text-2xl tracking-wide cursor-pointer"
+            className="font-serif md:text-2xl tracking-wide cursor-pointer text-[38px] font-semibold"
             data-testid="link-home"
-          >
-            STUDIO
-          </span>
+          >ELLA</span>
         </Link>
 
         <nav className="flex items-center gap-2 md:gap-4 flex-wrap">

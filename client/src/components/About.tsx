@@ -11,13 +11,13 @@ export function About() {
         
         <div className="space-y-6 text-muted-foreground font-light leading-relaxed text-base md:text-lg">
           <p data-testid="text-about-p1">
-            She is a visual creator defined by confidence, control, and modern elegance. Her work explores presence, form, and self-expression through a refined aesthetic that balances strength with restraint.
+            Ella is a multidisciplinary creator—model, artist, songwriter, and AI-driven content strategist. She has built a multi-platform presence across Instagram, Snapchat, TikTok, and Twitch, reaching an audience of over 300,000 followers.
           </p>
           <p data-testid="text-about-p2">
-            Each project is approached with intention — emphasizing quality, composition, and a clear visual identity rather than excess. Her portfolio reflects a curated evolution of style, built for audiences who value bold visuals delivered with sophistication.
+            With strong expertise in photography and videography, Ella produces consistently high-quality visual content across formats. Every project is approached with a balance of creative intuition and technical execution, resulting in work that is both aesthetically refined and strategically effective.
           </p>
           <p data-testid="text-about-p3">
-            This platform serves as a central space for her public work, creative direction, and exclusive offerings.
+            Beyond content creation, Ella is the founder of The AI Creator Blueprint, a structured system designed to help creators build sustainable, scalable income streams using AI-powered workflows.
           </p>
         </div>
       </div>

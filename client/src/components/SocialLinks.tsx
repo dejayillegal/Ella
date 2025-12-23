@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Link } from "wouter";
-import { SiInstagram, SiX } from "react-icons/si";
+import { SiInstagram, SiTwitch, SiYoutube, SiLinkedin } from "react-icons/si";
 import { Mail } from "lucide-react";
 
 export function SocialLinks() {
@@ -19,7 +19,7 @@ export function SocialLinks() {
 
         <div className="flex flex-wrap items-center justify-center gap-4 md:gap-6 mb-12">
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/native.princessella/"
             target="_blank"
             rel="noopener noreferrer"
             data-testid="link-instagram"
@@ -31,24 +31,38 @@ export function SocialLinks() {
           </a>
 
           <a
-            href="https://x.com"
+            href="https://www.twitch.tv/baebladegamesz"
             target="_blank"
             rel="noopener noreferrer"
-            data-testid="link-twitter"
+            data-testid="link-twitch"
           >
             <Button variant="outline" size="lg" className="gap-3 font-light">
-              <SiX className="h-5 w-5" />
-              Twitter / X
+              <SiTwitch className="h-5 w-5" />
+              Twitch
             </Button>
           </a>
 
           <a
-            href="mailto:contact@example.com"
-            data-testid="link-email"
+            href="https://www.youtube.com/@SincerelyEloisa"
+            target="_blank"
+            rel="noopener noreferrer"
+            data-testid="link-youtube"
           >
             <Button variant="outline" size="lg" className="gap-3 font-light">
-              <Mail className="h-5 w-5" />
-              Contact
+              <SiYoutube className="h-5 w-5" />
+              YouTube
+            </Button>
+          </a>
+
+          <a
+            href="https://www.linkedin.com/in/eloisa-chairez-580158133/"
+            target="_blank"
+            rel="noopener noreferrer"
+            data-testid="link-linkedin"
+          >
+            <Button variant="outline" size="lg" className="gap-3 font-light">
+              <SiLinkedin className="h-5 w-5" />
+              LinkedIn
             </Button>
           </a>
         </div>
